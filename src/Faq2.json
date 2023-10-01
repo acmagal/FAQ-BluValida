@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "Como o banco recebe meus dados?",
+    "answer": "Caso não visualize o boleto, entre em contato com o nosso suporte."
+  },
+  {
+    "id": 2,
+    "question": "Banco entrou em contato informando que não paguei, porém paguei e anexei comprovante, o que faço?",
+    "answer": "Caso ocorra comunicar a empresa remetente. A mesma caso não identifique erro na remessa gerada, entrará em contato com nosso suporte."
+  },
+  {
+    "id": 3,
+    "question": "Lorem ipsum etmus dolor?",
+    "answer": "Assim a empresa pré-identifica o pagamento antes do aval do banco, e ao anexar o comprovante altera o status de 'pendente' para 'enviado', facilitando o controle de ambas as partes."
+  },
+  {
+    "id": 4,
+    "question": "Paguei e enviei o comprovante, e agora?",
+    "answer": "Caso a empresa não receba o pagamento, ela tomará suas respectivas ações. O Blu Valida não realiza/identifica baixa de pagamentos, resumidamente nós geramos os boletos da remessa e possibilitamos o envio do comprovante."
+  },
+  {
+    "id": 5,
+    "question": "Como o banco usa meus documentos pessoais?",
+    "answer": "Assim nosso departamento assegura autenticidade do perfil, prevenindo fraudes ou problemas relacionados com segurança da informação."
+  },
+  {
+    "id": 6,
+    "question": "Como o banco lorem ipsum?",
+    "answer": "A empresa escolhe a categoria baseando-se na proximidade dela em relação ao serviço prestado. O destinatário terá nesta categoria todos os boletos do serviço. Em caso de dúvida, buscar o boleto a partir do nome da empresa no menu 'boletos'."
+  },
+  {
+    "id": 7,
+    "question": "Lorem ipsum etmus dolor?",
+    "answer": "Assim nosso departamento assegura autenticidade do perfil, prevenindo fraudes ou problemas relacionados com segurança da informação."
+  },
+  {
+    "id": 8,
+    "question": "Como o banco armazena meus dados pessoais?",
+    "answer": "Assim nosso departamento assegura autenticidade do perfil, prevenindo fraudes ou problemas relacionados com segurança da informação."
+  }
+]
